@@ -1,0 +1,16 @@
+{
+  "2021": [
+    { "type": "Drivers", "count": 1080 },
+    { "type": "Passengers", "count": 348 },
+    { "type": "Pedestrians", "count": 320 },
+    { "type": "Cyclists", "count": 74 },
+    { "type": "Motorcyclists", "count": 191 }
+  ],
+  "2022": [
+    { "type": "Drivers", "count": 1152 },
+    { "type": "Passengers", "count": 369 },
+    { "type": "Pedestrians", "count": 364 },
+    { "type": "Cyclists", "count": 79 },
+    { "type": "Motorcyclists", "count": 210 }
+  ]
+}

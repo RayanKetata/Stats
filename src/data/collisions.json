@@ -1,0 +1,24 @@
+{
+  "years": [
+    { "year": 2003, "fatalities": 2777, "seriousInjuries": 15110, "totalInjuries": 216123 },
+    { "year": 2004, "fatalities": 2735, "seriousInjuries": 15572, "totalInjuries": 206104 },
+    { "year": 2005, "fatalities": 2898, "seriousInjuries": 15792, "totalInjuries": 204701 },
+    { "year": 2006, "fatalities": 2871, "seriousInjuries": 16044, "totalInjuries": 199976 },
+    { "year": 2007, "fatalities": 2753, "seriousInjuries": 14410, "totalInjuries": 192745 },
+    { "year": 2008, "fatalities": 2431, "seriousInjuries": 12851, "totalInjuries": 176394 },
+    { "year": 2009, "fatalities": 2216, "seriousInjuries": 11955, "totalInjuries": 170770 },
+    { "year": 2010, "fatalities": 2238, "seriousInjuries": 11796, "totalInjuries": 172081 },
+    { "year": 2011, "fatalities": 2023, "seriousInjuries": 10940, "totalInjuries": 167741 },
+    { "year": 2012, "fatalities": 2075, "seriousInjuries": 11104, "totalInjuries": 166727 },
+    { "year": 2013, "fatalities": 1951, "seriousInjuries": 10662, "totalInjuries": 164525 },
+    { "year": 2014, "fatalities": 1841, "seriousInjuries": 10445, "totalInjuries": 156557 },
+    { "year": 2015, "fatalities": 1887, "seriousInjuries": 10835, "totalInjuries": 160806 },
+    { "year": 2016, "fatalities": 1900, "seriousInjuries": 10573, "totalInjuries": 158854 },
+    { "year": 2017, "fatalities": 1861, "seriousInjuries": 10104, "totalInjuries": 152773 },
+    { "year": 2018, "fatalities": 1930, "seriousInjuries": 9463, "totalInjuries": 149065 },
+    { "year": 2019, "fatalities": 1761, "seriousInjuries": 8917, "totalInjuries": 139084 },
+    { "year": 2020, "fatalities": 1711, "seriousInjuries": 7868, "totalInjuries": 104286 },
+    { "year": 2021, "fatalities": 1821, "seriousInjuries": 8185, "totalInjuries": 108552 },
+    { "year": 2022, "fatalities": 1931, "seriousInjuries": 8851, "totalInjuries": 118853 }
+  ]
+}
